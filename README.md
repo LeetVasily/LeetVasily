@@ -1,3 +1,8 @@
+<img
+  src="https://media.licdn.com/dms/image/D4E16AQEJORhGTKwTZw/profile-displaybackgroundimage-shrink_350_1400/0/1694979392277?e=1700697600&v=beta&t=c23ogCEAolJSitz8ZsEdMxsN29XOYfZuGBhbfJQoETM"
+  alt="azat-io"
+  width="100%"
+/>
 - 👋 Hi, I’m @LeetVasily
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
